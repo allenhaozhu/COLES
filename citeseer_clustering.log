@@ -1,0 +1,54 @@
+/home/allenhaozhu/anaconda3/bin/python /home/allenhaozhu/Downloads/COLES-Neurips2021/train_ssgc_citeseer_clustering.py
+tensor(-0.5216, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-0.5438, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-0.5688, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-0.5940, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-0.6201, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-0.6477, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-0.6736, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-0.7039, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-0.7345, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-0.7659, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-0.7989, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-0.8295, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-0.8663, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-0.9037, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-0.9413, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-0.9807, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-1.0169, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-1.0615, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-1.1072, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-1.1522, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-1.1991, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-1.2418, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-1.2959, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-1.3515, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-1.4052, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-1.4607, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-1.5107, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-1.5761, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-1.6435, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-1.7073, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-1.7726, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-1.8308, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-1.9093, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-1.9905, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-2.0657, device='cuda:0', grad_fn=<DivBackward0>)
+ACC=0.694620, f1_macro=0.651395, precision_macro=0.656664, recall_macro=0.654063, f1_micro=0.694620, precision_micro=0.694620, recall_micro=0.694620, NMI=0.447028, ADJ_RAND_SCORE=0.458420
+ACC=0.691915, f1_macro=0.648333, precision_macro=0.653816, recall_macro=0.651506, f1_micro=0.691915, precision_micro=0.691915, recall_micro=0.691915, NMI=0.446620, ADJ_RAND_SCORE=0.456198
+ACC=0.691915, f1_macro=0.649254, precision_macro=0.655093, recall_macro=0.652150, f1_micro=0.691915, precision_micro=0.691915, recall_micro=0.691915, NMI=0.446382, ADJ_RAND_SCORE=0.456462
+ACC=0.690111, f1_macro=0.647634, precision_macro=0.653667, recall_macro=0.650351, f1_micro=0.690111, precision_micro=0.690111, recall_micro=0.690111, NMI=0.443898, ADJ_RAND_SCORE=0.454067
+ACC=0.691915, f1_macro=0.647875, precision_macro=0.653385, recall_macro=0.651304, f1_micro=0.691915, precision_micro=0.691915, recall_micro=0.691915, NMI=0.446583, ADJ_RAND_SCORE=0.456492
+ACC=0.693117, f1_macro=0.648802, precision_macro=0.654093, recall_macro=0.652480, f1_micro=0.693117, precision_micro=0.693117, recall_micro=0.693117, NMI=0.447805, ADJ_RAND_SCORE=0.457446
+ACC=0.691915, f1_macro=0.649254, precision_macro=0.655093, recall_macro=0.652150, f1_micro=0.691915, precision_micro=0.691915, recall_micro=0.691915, NMI=0.446382, ADJ_RAND_SCORE=0.456462
+ACC=0.694620, f1_macro=0.652138, precision_macro=0.657411, recall_macro=0.654716, f1_micro=0.694620, precision_micro=0.694620, recall_micro=0.694620, NMI=0.446940, ADJ_RAND_SCORE=0.458326
+ACC=0.691313, f1_macro=0.648809, precision_macro=0.654909, recall_macro=0.651584, f1_micro=0.691313, precision_micro=0.691313, recall_micro=0.691313, NMI=0.446185, ADJ_RAND_SCORE=0.456013
+ACC=0.690111, f1_macro=0.647939, precision_macro=0.654175, recall_macro=0.650690, f1_micro=0.690111, precision_micro=0.690111, recall_micro=0.690111, NMI=0.444297, ADJ_RAND_SCORE=0.453932
+0.6921550946798918
+0.0014956243227682155
+0.4462117596345399
+0.0011452389626147926
+0.6491433518717356
+0.0014241513911413552
+
+Process finished with exit code 0

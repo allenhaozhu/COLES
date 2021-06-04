@@ -1,0 +1,24 @@
+/home/allenhaozhu/anaconda3/bin/python /home/allenhaozhu/Downloads/COLES-Neurips2021/train_ssgc_pubmed_clustering.py
+tensor(-0.0054, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-0.0055, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-0.0056, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-0.0057, device='cuda:0', grad_fn=<DivBackward0>)
+tensor(-0.0058, device='cuda:0', grad_fn=<DivBackward0>)
+ACC=0.687731, f1_macro=0.681349, precision_macro=0.710754, recall_macro=0.707090, f1_micro=0.687731, precision_micro=0.687731, recall_micro=0.687731, NMI=0.334235, ADJ_RAND_SCORE=0.319331
+ACC=0.687731, f1_macro=0.681349, precision_macro=0.710754, recall_macro=0.707090, f1_micro=0.687731, precision_micro=0.687731, recall_micro=0.687731, NMI=0.334235, ADJ_RAND_SCORE=0.319331
+ACC=0.687579, f1_macro=0.681190, precision_macro=0.710649, recall_macro=0.706963, f1_micro=0.687579, precision_micro=0.687579, recall_micro=0.687579, NMI=0.334130, ADJ_RAND_SCORE=0.319175
+ACC=0.687731, f1_macro=0.681349, precision_macro=0.710754, recall_macro=0.707090, f1_micro=0.687731, precision_micro=0.687731, recall_micro=0.687731, NMI=0.334235, ADJ_RAND_SCORE=0.319331
+ACC=0.687731, f1_macro=0.681349, precision_macro=0.710754, recall_macro=0.707090, f1_micro=0.687731, precision_micro=0.687731, recall_micro=0.687731, NMI=0.334235, ADJ_RAND_SCORE=0.319331
+ACC=0.687731, f1_macro=0.681349, precision_macro=0.710754, recall_macro=0.707090, f1_micro=0.687731, precision_micro=0.687731, recall_micro=0.687731, NMI=0.334235, ADJ_RAND_SCORE=0.319331
+ACC=0.687731, f1_macro=0.681349, precision_macro=0.710754, recall_macro=0.707090, f1_micro=0.687731, precision_micro=0.687731, recall_micro=0.687731, NMI=0.334235, ADJ_RAND_SCORE=0.319331
+ACC=0.687478, f1_macro=0.681125, precision_macro=0.710656, recall_macro=0.706878, f1_micro=0.687478, precision_micro=0.687478, recall_micro=0.687478, NMI=0.334183, ADJ_RAND_SCORE=0.319104
+ACC=0.687478, f1_macro=0.681125, precision_macro=0.710656, recall_macro=0.706878, f1_micro=0.687478, precision_micro=0.687478, recall_micro=0.687478, NMI=0.334183, ADJ_RAND_SCORE=0.319104
+ACC=0.687731, f1_macro=0.681349, precision_macro=0.710754, recall_macro=0.707090, f1_micro=0.687731, precision_micro=0.687731, recall_micro=0.687731, NMI=0.334235, ADJ_RAND_SCORE=0.319331
+0.6876654663488361
+0.00010406392721351606
+0.3342142925911975
+3.480719539167438e-05
+0.6812885811764761
+9.456644732325918e-05
+
+Process finished with exit code 0
