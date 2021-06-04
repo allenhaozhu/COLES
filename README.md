@@ -3,15 +3,15 @@
 ### Overview
 This repo contains an example implementation of the Neurips 2021 submission: Contrastive Laplacian Eigenmaps.
 This code is based on SSGC.
-In this code, we provide codes for Table 2 and node clustering experiments. To prevent unnecessary trouble, we submit the data along with the code.
-For reddits and ogb-arxiv, we do not provide the code because the corresponding is too big.
-We also provide the log file for checking to avoid if the code cannot run correctly in some unknown situations.
+In this code, we provide codes for Table 2 (contrastive classification) and node clustering experiments (Table 7). To prevent unnecessary issues, we submit the data along with the code.
+For reddit and ogb-arxiv, we do not provide the code because the corresponding datasets are too big (code will be released on github with the paper if accepted).
+We also provide the log file for comparisons to help if the code cannot run correctly in reviewers' environment (any unknown issues with packages etc.)
 
 This home repo contains the implementation for citation networks (Cora, Citeseer, and Pubmed, Cora Full).
 
 
 ### Dependencies
-Our implementation works with PyTorch>=1.0.0 
+Our implementation works with PyTorch>=1.0.0
 
 ### Data
 We provide the citation network datasets under `data/`.
@@ -22,5 +22,3 @@ We provide the citation network datasets under `data/`.
 $ python train_ssgc_(dataset_name).py
 $ python train_ssgc_(dataset_name)_clustering.py
 ```
-
-# COLES
