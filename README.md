@@ -1,10 +1,10 @@
-##  Contrastive Laplacian Eigenmaps (COLES)
+##  Contrastive Laplacian Eigenmaps (COLES) 
 
 ### Overview
-This repo contains an example implementation of the Neurips 2021 submission: Contrastive Laplacian Eigenmaps.
+This repo contains an example implementation of the Neurips 2021 paper: Contrastive Laplacian Eigenmaps.
 This code is based on SSGC.
 In this code, we provide codes for Table 2 (contrastive classification) and node clustering experiments (Table 7). To prevent unnecessary issues, we submit the data along with the code.
-For reddit and ogb-arxiv, we do not provide the code because the corresponding datasets are too big (code will be released on github with the paper if accepted).
+For reddit and ogb-arxiv, we do not provide the code because the corresponding datasets are too big.
 We also provide the log file for comparisons to help if the code cannot run correctly in reviewers' environment (any unknown issues with packages etc.)
 
 This home repo contains the implementation for citation networks (Cora, Citeseer, and Pubmed, Cora Full).
